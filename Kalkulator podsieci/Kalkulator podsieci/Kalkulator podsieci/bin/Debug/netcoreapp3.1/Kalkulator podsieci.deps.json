@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Kalkulator podsieci/1.0.0": {
+        "runtime": {
+          "Kalkulator podsieci.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Kalkulator podsieci/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

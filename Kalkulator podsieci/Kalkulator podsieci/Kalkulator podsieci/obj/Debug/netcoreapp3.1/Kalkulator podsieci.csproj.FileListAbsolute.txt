@@ -1,0 +1,13 @@
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.exe
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.deps.json
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.runtimeconfig.json
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.runtimeconfig.dev.json
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.dll
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.pdb
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.csprojAssemblyReference.cache
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.AssemblyInfoInputs.cache
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.AssemblyInfo.cs
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.csproj.CoreCompileInputs.cache
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.dll
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.pdb
+C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.genruntimeconfig.cache
