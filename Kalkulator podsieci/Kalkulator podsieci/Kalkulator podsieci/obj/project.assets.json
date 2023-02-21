@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zieln\\OneDrive\\Pulpit\\programowanie\\projekty\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci.csproj",
+      "projectUniqueName": "C:\\Users\\zieln\\Desktop\\programowanie\\projekty\\kalkulator-podsieci-rep\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci.csproj",
       "projectName": "Kalkulator podsieci",
-      "projectPath": "C:\\Users\\zieln\\OneDrive\\Pulpit\\programowanie\\projekty\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci.csproj",
+      "projectPath": "C:\\Users\\zieln\\Desktop\\programowanie\\projekty\\kalkulator-podsieci-rep\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci.csproj",
       "packagesPath": "C:\\Users\\zieln\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zieln\\OneDrive\\Pulpit\\programowanie\\projekty\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci\\obj\\",
+      "outputPath": "C:\\Users\\zieln\\Desktop\\programowanie\\projekty\\kalkulator-podsieci-rep\\Kalkulator podsieci\\Kalkulator podsieci\\Kalkulator podsieci\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zieln\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,12 +55,18 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.26, 3.1.26]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

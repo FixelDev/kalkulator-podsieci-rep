@@ -11,3 +11,17 @@ C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkul
 C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.dll
 C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.pdb
 C:\Users\zieln\OneDrive\Pulpit\programowanie\projekty\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.genruntimeconfig.cache
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.exe
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.deps.json
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.runtimeconfig.json
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.runtimeconfig.dev.json
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.dll
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\bin\Debug\netcoreapp3.1\Kalkulator podsieci.pdb
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.csproj.AssemblyReference.cache
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.AssemblyInfoInputs.cache
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.AssemblyInfo.cs
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.csproj.CoreCompileInputs.cache
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.dll
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.pdb
+C:\Users\zieln\Desktop\programowanie\projekty\kalkulator-podsieci-rep\Kalkulator podsieci\Kalkulator podsieci\Kalkulator podsieci\obj\Debug\netcoreapp3.1\Kalkulator podsieci.genruntimeconfig.cache
